@@ -1,5 +1,5 @@
 # Wave Propagation
-This repository contains experiments settings for the simulation, forecasting and analysis of waves propagation.
+This repository contains experiments settings for the simulation, forecasting and analysis of acoustic waves propagation.
 
 ## Installation
 Just clone this repository:
