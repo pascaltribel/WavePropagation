@@ -10,10 +10,12 @@ git clone github.com/pascaltribel/WavePropagation/
 
 ## Experiments
 ### Epicenter
-The (Epicenter)[Epicenter/] directory contains experiments to compute the wave epicenter from its propagation measurement. To see those experiments, start a `jupyter server`:
+The [Epicenter](Epicenter) directory contains experiments to compute the wave epicenter from its propagation measurement. To see those experiments, start a `jupyter server`:
 
 ```bash
 cd WavePropagation
 cd Epicenter
 jupyter-notebook
 ```
+
+Currently, we propose analysis of regression tools applied on the wave propagation and on the interrogators measurements.
